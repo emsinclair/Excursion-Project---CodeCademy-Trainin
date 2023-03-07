@@ -31,3 +31,12 @@ body {
   color: #7FFFD4;
 }
 
+/* FOOTER */
+
+.copyright {
+  font-size: 21px;
+  color: #F0FFF0;
+  text-align: right;
+}
+
+
